@@ -14,4 +14,9 @@ Aplikacija preveri, ali so vsa obvezna polja vnesena, ter prikaže opozorilo, č
 
 Dostopno je tudi na manjših zaslonih zaradi uporabe `ScrollView`.
 
-Prikaz na zaslonu:
+### Prikaz na zaslonu:
+
+<p align="center">
+  <img src="screenshots/image.png" width="40%" alt="Registracijski obrazec" />
+  <img src="screenshots/image1.png" width="40%" alt="Prikaz vnesenih podatkov" />
+</p>
